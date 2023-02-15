@@ -5791,6 +5791,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Apple3Slice
       objectReference: {fileID: 0}
+    - target: {fileID: 1898144376957014, guid: a116eb0f5f2624b1fbc566c91ab919c0, type: 3}
+      propertyPath: m_Name
+      value: Apple3Slice
+      objectReference: {fileID: 0}
     - target: {fileID: 4183444430647640, guid: a116eb0f5f2624b1fbc566c91ab919c0, type: 3}
       propertyPath: m_RootOrder
       value: 68
@@ -8775,6 +8779,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1232419672}
     m_Modifications:
+    - target: {fileID: 1396978127, guid: b364b2f05e852b24084f1f0fa47278df, type: 3}
+      propertyPath: m_Name
+      value: Bread1Slice
+      objectReference: {fileID: 0}
     - target: {fileID: 6229843519040308976, guid: b364b2f05e852b24084f1f0fa47278df,
         type: 3}
       propertyPath: m_Name
@@ -15535,6 +15543,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1232419672}
     m_Modifications:
+    - target: {fileID: 221694814, guid: d87ca6341d7d28d44884efecb7617d00, type: 3}
+      propertyPath: m_Name
+      value: Bread2Slice
+      objectReference: {fileID: 0}
     - target: {fileID: 7866601648923264774, guid: d87ca6341d7d28d44884efecb7617d00,
         type: 3}
       propertyPath: m_Name
@@ -15543,7 +15555,7 @@ PrefabInstance:
     - target: {fileID: 7866601648923431718, guid: d87ca6341d7d28d44884efecb7617d00,
         type: 3}
       propertyPath: m_RootOrder
-      value: 76
+      value: 77
       objectReference: {fileID: 0}
     - target: {fileID: 7866601648923431718, guid: d87ca6341d7d28d44884efecb7617d00,
         type: 3}
@@ -39025,6 +39037,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Apple2Slice
       objectReference: {fileID: 0}
+    - target: {fileID: 1667998589827086, guid: dc48ad2d0e2444e4a970ad99fbf079ec, type: 3}
+      propertyPath: m_Name
+      value: Apple2Slice
+      objectReference: {fileID: 0}
     - target: {fileID: 4122344279815926, guid: dc48ad2d0e2444e4a970ad99fbf079ec, type: 3}
       propertyPath: m_RootOrder
       value: 66
@@ -41095,8 +41111,8 @@ Transform:
   - {fileID: 323209969}
   - {fileID: 610429498}
   - {fileID: 270650001}
-  - {fileID: 427880338}
   - {fileID: 2115901470}
+  - {fileID: 427880338}
   - {fileID: 777223661}
   - {fileID: 486532773}
   - {fileID: 208416116}
@@ -44856,6 +44872,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1232419672}
     m_Modifications:
+    - target: {fileID: 1062598887798196, guid: 8b578b9f2d8544086863c8d7adcef692, type: 3}
+      propertyPath: m_Name
+      value: Apple1Slice
+      objectReference: {fileID: 0}
     - target: {fileID: 1587120804346306, guid: 8b578b9f2d8544086863c8d7adcef692, type: 3}
       propertyPath: m_Name
       value: Apple1Slice
@@ -48638,6 +48658,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1232419672}
     m_Modifications:
+    - target: {fileID: 1491909727, guid: 000591abdcbf69e47adc0de3ee6a9a45, type: 3}
+      propertyPath: m_Name
+      value: Potato1Slice
+      objectReference: {fileID: 0}
     - target: {fileID: 2087732093, guid: 000591abdcbf69e47adc0de3ee6a9a45, type: 3}
       propertyPath: m_Name
       value: Potato1Slice
@@ -67527,6 +67551,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 1515545833, guid: 2cc197ba488193547addc0743640ca49, type: 3}
+      propertyPath: m_Name
+      value: Potato2Slice
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2cc197ba488193547addc0743640ca49, type: 3}
 --- !u!4 &2108085489 stripped
@@ -67610,7 +67638,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4094798387892176, guid: 6c69774a47d748e41bc7900d4582df37, type: 3}
       propertyPath: m_RootOrder
-      value: 77
+      value: 76
       objectReference: {fileID: 0}
     - target: {fileID: 4094798387892176, guid: 6c69774a47d748e41bc7900d4582df37, type: 3}
       propertyPath: m_LocalPosition.x
