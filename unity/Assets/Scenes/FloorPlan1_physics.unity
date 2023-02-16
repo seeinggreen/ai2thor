@@ -5984,6 +5984,11 @@ PrefabInstance:
       propertyPath: SecondaryProperties.Array.data[0]
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3576118756630104528, guid: 87f17b393ddd31846830a8cb051783c5,
+        type: 3}
+      propertyPath: Unbreakable
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 87f17b393ddd31846830a8cb051783c5, type: 3}
 --- !u!4 &156920176 stripped
@@ -10160,6 +10165,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1232419672}
     m_Modifications:
+    - target: {fileID: 173690720, guid: 985802acaa922614a8d30d7dcb17acbc, type: 3}
+      propertyPath: Unbreakable
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1496395855902372, guid: 985802acaa922614a8d30d7dcb17acbc, type: 3}
       propertyPath: m_Name
       value: Bowl3
@@ -11335,6 +11344,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1232419672}
     m_Modifications:
+    - target: {fileID: 1847975643, guid: 1737413ddb2077f4a954be6df6a895de, type: 3}
+      propertyPath: Unbreakable
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1647058999180258, guid: 1737413ddb2077f4a954be6df6a895de, type: 3}
       propertyPath: m_Name
       value: Plate2
@@ -11482,13 +11495,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114896115455511940, guid: 93356650085f30e4889ea60259d2d701,
         type: 3}
+      propertyPath: objectID
+      value: Vase|+02.51|+01.18|+04.56
+      objectReference: {fileID: 0}
+    - target: {fileID: 114896115455511940, guid: 93356650085f30e4889ea60259d2d701,
+        type: 3}
       propertyPath: SecondaryProperties.Array.size
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114896115455511940, guid: 93356650085f30e4889ea60259d2d701,
         type: 3}
       propertyPath: SecondaryProperties.Array.data[0]
-      value: 0
+      value: 11
+      objectReference: {fileID: 0}
+    - target: {fileID: 2628131202449242059, guid: 93356650085f30e4889ea60259d2d701,
+        type: 3}
+      propertyPath: Unbreakable
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 93356650085f30e4889ea60259d2d701, type: 3}
@@ -17704,6 +17727,11 @@ PrefabInstance:
       propertyPath: SecondaryProperties.Array.data[1]
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 305271192173928888, guid: 2de99420bc91c6f4ab4f5d697c9fa845,
+        type: 3}
+      propertyPath: Unbreakable
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2de99420bc91c6f4ab4f5d697c9fa845, type: 3}
 --- !u!4 &486532773 stripped
@@ -22210,6 +22238,11 @@ PrefabInstance:
         type: 3}
       propertyPath: SecondaryProperties.Array.data[3]
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8624849010661550945, guid: 4f188beed4b20934589fa82f0041bbb6,
+        type: 3}
+      propertyPath: Unbreakable
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4f188beed4b20934589fa82f0041bbb6, type: 3}
@@ -26988,6 +27021,11 @@ PrefabInstance:
       propertyPath: SecondaryProperties.Array.data[3]
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7051972391107935603, guid: ed89725c445d47143bcc700dcc07a1ff,
+        type: 3}
+      propertyPath: Unbreakable
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ed89725c445d47143bcc700dcc07a1ff, type: 3}
 --- !u!4 &757877082 stripped
@@ -27412,7 +27450,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4583413351389312, guid: 428d9828a3b7b2a44a4a31386ccdbc89, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 4.479
+      value: 4.478
       objectReference: {fileID: 0}
     - target: {fileID: 4583413351389312, guid: 428d9828a3b7b2a44a4a31386ccdbc89, type: 3}
       propertyPath: m_LocalRotation.w
@@ -27446,6 +27484,11 @@ PrefabInstance:
         type: 3}
       propertyPath: SecondaryProperties.Array.data[1]
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1811565494792340053, guid: 428d9828a3b7b2a44a4a31386ccdbc89,
+        type: 3}
+      propertyPath: Unbreakable
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 428d9828a3b7b2a44a4a31386ccdbc89, type: 3}
@@ -43462,6 +43505,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1232419672}
     m_Modifications:
+    - target: {fileID: 132817230, guid: 79c680aac08a3164ab9e685ee566716c, type: 3}
+      propertyPath: Unbreakable
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1515254225731834, guid: 79c680aac08a3164ab9e685ee566716c, type: 3}
       propertyPath: m_Name
       value: Plate1
@@ -67902,7 +67949,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4659075595628542, guid: 4e5d08b01c9e425489b019de1ab6704f, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 4.487683
+      value: 4.493
       objectReference: {fileID: 0}
     - target: {fileID: 4659075595628542, guid: 4e5d08b01c9e425489b019de1ab6704f, type: 3}
       propertyPath: m_LocalRotation.w
